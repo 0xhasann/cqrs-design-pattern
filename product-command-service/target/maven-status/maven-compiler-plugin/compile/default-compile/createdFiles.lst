@@ -1,0 +1,6 @@
+com/javatechie/repository/ProductRepository.class
+com/javatechie/controller/ProductCommandController.class
+com/javatechie/service/ProductCommandService.class
+com/javatechie/dto/ProductEvent.class
+com/javatechie/ProductCommandServiceApplication.class
+com/javatechie/entity/Product.class

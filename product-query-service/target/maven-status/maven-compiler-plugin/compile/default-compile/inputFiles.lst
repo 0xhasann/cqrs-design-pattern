@@ -1,0 +1,6 @@
+/Users/hasan/Documents/cqrs-design-pattern/product-query-service/src/main/java/com/javatechie/repository/ProductRepository.java
+/Users/hasan/Documents/cqrs-design-pattern/product-query-service/src/main/java/com/javatechie/entity/Product.java
+/Users/hasan/Documents/cqrs-design-pattern/product-query-service/src/main/java/com/javatechie/service/ProductQueryService.java
+/Users/hasan/Documents/cqrs-design-pattern/product-query-service/src/main/java/com/javatechie/dto/ProductEvent.java
+/Users/hasan/Documents/cqrs-design-pattern/product-query-service/src/main/java/com/javatechie/ProductQueryServiceApplication.java
+/Users/hasan/Documents/cqrs-design-pattern/product-query-service/src/main/java/com/javatechie/controller/ProductQueryController.java

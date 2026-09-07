@@ -1,0 +1,6 @@
+/Users/hasan/Documents/cqrs-design-pattern/product-command-service/src/main/java/com/javatechie/controller/ProductCommandController.java
+/Users/hasan/Documents/cqrs-design-pattern/product-command-service/src/main/java/com/javatechie/entity/Product.java
+/Users/hasan/Documents/cqrs-design-pattern/product-command-service/src/main/java/com/javatechie/dto/ProductEvent.java
+/Users/hasan/Documents/cqrs-design-pattern/product-command-service/src/main/java/com/javatechie/repository/ProductRepository.java
+/Users/hasan/Documents/cqrs-design-pattern/product-command-service/src/main/java/com/javatechie/ProductCommandServiceApplication.java
+/Users/hasan/Documents/cqrs-design-pattern/product-command-service/src/main/java/com/javatechie/service/ProductCommandService.java
